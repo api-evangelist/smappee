@@ -64,17 +64,13 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Smappee provides energy intelligence solutions that enable businesses, utilities and consumers to monitor, analyze and optimise energy consumption. Their platform combines hardware metering, cloud analytics and a user‑friendly dashboard to deliver real‑time insights, automated reporting and demand‑response capabilities. Smappee serves residential, commercial and industrial sectors, offering products for energy management, electric‑vehicle charging, storage and sustainability reporting.
+Smappee provides an energy intelligence platform that connects, visualises, predicts and manages energy flows across residential, commercial and industrial sites. Their solutions include energy management software, smart charging for electric vehicles, storage integration and analytics to optimise renewable energy use, reduce costs and increase self‑consumption. The company serves utilities, businesses, real‑estate owners and transport operators, offering a cloud‑based dashboard and APIs for real‑time data access and control.
 
-**Areas:** Energy · IoT · Analytics · Sustainability · Smart‑grid
+**Areas:** Energy · IoT · Smart-Grid · SaaS · Company
 
 ## Smappee on APIs.io
 
 Everything profiled for Smappee is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/smappee/](https://apis.io/providers/smappee/)** — or go straight to one of the APIs or properties below.
-
-### APIs (1)
-
-- [Dev API](https://apis.io/apis/smappee/dev-api/) — Smappee developer API documentation page.
 
 ### Published properties
 
@@ -90,24 +86,23 @@ Authentication, trust centre, and vulnerability disclosure.
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-- [Website](https://www.smappee.com/eu/)
-- [Documentation](https://support.smappee.com/hc/en-gb/categories/39647352891412-Documentation)
+- [Website](https://smappee.com/)
 - [Support](https://support.smappee.com/hc/en-gb)
 - [Privacy policy](https://www.smappee.com/eu/privacy)
 - [GitHub](https://github.com/smappee)
 
 ## API Evangelist rating
 
-**Kin Score 9.4** — minimal · rubric 0.28.0 · scored 2026-11-17
+**Kin Score 7.8** — minimal · rubric 0.27.0 · scored 2026-11-17
 
 | Facet | Score |
 |---|---|
-| Discoverability | 57.1 |
+| Discoverability | 48.2 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 4.8 |
-| Developer ergonomics | 14.3 |
-| Access clarity | 8.5 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 4.8 |
+| Access clarity | 10.5 |
 
 **Agent readiness 3.1** — human-only
 
@@ -136,7 +131,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 3.3** — Energy & Utilities
+**Regulatory alignment 8.2** — Energy & Utilities
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/smappee/](https://apis.io/providers/smappee/).
 
